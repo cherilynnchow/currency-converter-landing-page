@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Currency Converter</title>
+    <link>https://cherilynnchow.github.io/currency-converter-landing-page/authors/</link>
+    <description>Recent content in Authors on Currency Converter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Cherilynn Chow, Kim Fung, Emre Guler, &amp; Samuel May</copyright>
+    <lastBuildDate>Wed, 15 May 2024 02:03:36 -0400</lastBuildDate>
+    <atom:link href="https://cherilynnchow.github.io/currency-converter-landing-page/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cherilynn Chow, Kim Fung, Emre Guler, Samuel May</title>
+      <link>https://cherilynnchow.github.io/currency-converter-landing-page/authors/cherilynn-chow-kim-fung-emre-guler-samuel-may/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0100</pubDate>
+      <guid>https://cherilynnchow.github.io/currency-converter-landing-page/authors/cherilynn-chow-kim-fung-emre-guler-samuel-may/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Filipe Carneiro</title>
+      <link>https://cherilynnchow.github.io/currency-converter-landing-page/authors/filipe-carneiro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cherilynnchow.github.io/currency-converter-landing-page/authors/filipe-carneiro/</guid>
+      <description>Filipe Carneiro.</description>
+    </item>
+  </channel>
+</rss>

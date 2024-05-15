@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Currency Converter</title>
+    <link>https://cherilynnchow.github.io/currency-converter-landing-page/tags/blog/</link>
+    <description>Recent content in Blog on Currency Converter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Cherilynn Chow, Kim Fung, Emre Guler, &amp; Samuel May</copyright>
+    <lastBuildDate>Wed, 15 May 2024 02:03:36 -0400</lastBuildDate>
+    <atom:link href="https://cherilynnchow.github.io/currency-converter-landing-page/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog Post #1</title>
+      <link>https://cherilynnchow.github.io/currency-converter-landing-page/post/blog-post-1/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0100</pubDate>
+      <guid>https://cherilynnchow.github.io/currency-converter-landing-page/post/blog-post-1/</guid>
+      <description>Blog Post #1 In an era where online shopping is the standard for millions worldwide, we thought that creating a Google Chrome extension called Currency Converter would simplify the experience for many users. We planned to allow users to manually convert a specified amount based on their input or automatically convert the prices on the page with up-to-date foreign exchange rates with the click of a button. Our extension would allow users to quickly compare prices in their local currency before making purchases on websites that offer products in a different currency, easily budget on flights, accommodations, and activities while planning for future travels, efficiently price items in different currencies when selling products or service internations, and do many other useful tasks.</description>
+    </item>
+  </channel>
+</rss>
