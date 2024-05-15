@@ -7,7 +7,7 @@ images: ["icon.png"]
 categories: ["Blog post"]
 tags: ["blog", "post"]
 keywords: ["blog post"]
-authors: ["Cherilynn Chow, Fim Fung, Emre Guler, Samuel May"]
+authors: ["Cherilynn Chow, Kim Fung, Emre Guler, Samuel May"]
 ---
 
 # Blog Post #1
